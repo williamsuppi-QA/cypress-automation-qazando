@@ -34,7 +34,6 @@ Clone o repositório:
 
 
 Bash
-Copiar
 git clone https://github.com/williamsuppi-QA/cypress-automation-qazando.git
 
 
@@ -44,7 +43,6 @@ Instale as dependências:
 
 
 Bash
-Copiar
 npm install
 
 
@@ -54,7 +52,6 @@ Execute os testes no modo interativo:
 
 
 Bash
-Copiar
 npx cypress open
 
 
@@ -64,7 +61,6 @@ Execute os testes no modo headless:
 
 
 Bash
-Copiar
 npx cypress run
 
 
