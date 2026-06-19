@@ -1,0 +1,11 @@
+# Outros testes
+cypress/e2e/asserts.cy.js
+cypress/e2e/desafio.cy.js
+cypress/e2e/get_elements.cy.js
+cypress/e2e/get_texts.cy.js
+cypress/e2e/interacoes.cy.js
+
+# Dependências e gerados automaticamente
+node_modules/
+cypress/screenshots/
+cypress/videos/
